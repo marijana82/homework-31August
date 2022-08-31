@@ -1,0 +1,61 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px;
+    margin: 20px;
+}
+
+
+h1 {
+    font-family: "Apple LiGothic";
+    font-size: 60px;
+    padding: 20px;
+}
+
+h2 {
+    font-family: "American Typewriter";
+    font-size: 40px;
+    padding: 20px;
+    padding-bottom: 40px;
+
+}
+
+p {
+    font-family: "American Typewriter";
+    padding: 10px;
+}
+
+
+#query-field {
+
+}
+
+.country-results {
+    display: flex;
+    flex-direction: row;
+}
+
+.flag {
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+}
+
+.world {
+    width: 350px;
+    height: 400px;
+    padding: 50px;
+}
+
+
+
+
