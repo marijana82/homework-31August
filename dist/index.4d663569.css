@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 50px;
+  display: flex;
+}
+
+h1 {
+  padding: 20px;
+  font-family: Apple LiGothic;
+  font-size: 60px;
+}
+
+h2 {
+  padding: 20px 20px 40px;
+  font-family: American Typewriter;
+  font-size: 40px;
+}
+
+p {
+  padding: 10px;
+  font-family: American Typewriter;
+}
+
+.country-results {
+  flex-direction: row;
+  display: flex;
+}
+
+.flag {
+  width: 150px;
+  height: 100px;
+  padding: 20px;
+}
+
+.world {
+  width: 350px;
+  height: 400px;
+  padding: 50px;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
